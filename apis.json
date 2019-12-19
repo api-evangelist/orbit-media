@@ -1,0 +1,40 @@
+{
+    "name": "Orbit Media",
+    "description": "",
+    "image": "",
+    "tags": [
+        "agencies",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/orbit-media\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Orbit Media",
+            "description": null,
+            "image": "",
+            "humanURL": "http:\/\/www.orbitmedia.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/orbit-media-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/orbiteers"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.orbitmedia.com\/"
+        }
+    ]
+}
